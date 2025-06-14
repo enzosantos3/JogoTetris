@@ -61,7 +61,3 @@ Os controles do jogo são simples e baseados nas setas do teclado.
   - `↑` : Girar a peça no sentido horário.
 
 -----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
