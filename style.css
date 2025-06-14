@@ -19,12 +19,12 @@ body {
 
 canvas#tetris {
   background: #222;
-  box-shadow: 0 0 20px #0ff;
+  box-shadow: 0 0 20px rgb(62, 1, 99);
 }
 
 canvas#next {
   background: #333;
-  box-shadow: 0 0 10px #0ff;
+  box-shadow: 0 0 10px rgb(0, 60, 255);
 }
 
 .info-panel {
@@ -36,7 +36,7 @@ canvas#next {
 #score,
 #level {
   font-size: 24px;
-  color: #0ff;
+  color: rgb(72, 0, 255);
 }
 
 #next-piece {
@@ -47,11 +47,11 @@ canvas#next {
 
 #next-piece p {
   margin-bottom: 5px;
-  color: #0ff;
+  color: rgb(56, 7, 142);
 }
 
 .controls {
   margin-top: 20px;
-  color: #888;
+  color: #888888;
   font-size: 14px;
 }
